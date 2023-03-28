@@ -1,4 +1,4 @@
-# Introduction*
+# Introduction
 # Abstract
 In recent years, there has been a growing interest in developing new propulsion technologies that do not rely on fossil fuels. One such technology is ion propulsion, which uses electric fields to accelerate ions to generate thrust. While ion thrusters have been used primarily in space, recent studies have shown that they can also be useful on Earth, replacing conventional propellers in certain applications. This tutorial will provide an overview of the theory of ion propulsion, a brief history of its development, and a step-by-step guide to building a low-power ion thruster using 3D printing, PCB milling, and soldering skills.
 
